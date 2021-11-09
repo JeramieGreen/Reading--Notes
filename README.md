@@ -10,9 +10,9 @@ Growth mindset is active. Growth has to live; growth mindset has to live in thou
 ````
 
 
-1. Ask myself if I encountered a challenge/obstacle that I could learn from
+1. Ask myself if I encountered a challenge/obstacle that I could have learn from?
 2. Remind myself that I can learn something from every event in life.
-3. Remember that choosing to grow is the first step; and making that choice everyday.
+3. Choosing growth everyday.
 
 
 ````
