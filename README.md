@@ -20,3 +20,4 @@ Growth mindset is active. Growth has to live; growth mindset has to live in thou
 ![This is an image](https://dlz2hpu0l8fq9.cloudfront.net/5ejpilqngbch.png)
 
  
+ 
