@@ -7,14 +7,15 @@ Growth mindset is active. Growth has to live; growth mindset has to live in thou
 ### **Growth Mindset Reminders** 
 
 
+````
 
-```markdown
 
 1. Ask myself if I encountered a challenge/obstacle that I walked away from that I could have used for growth?
 2. Remind myself that I can learn something from every event in life.
 3. Remember that choosing to grow is the first step; and making that choice everyday.
 
-```
+
+````
 
 ![This is an image](https://dlz2hpu0l8fq9.cloudfront.net/5ejpilqngbch.png)
 
