@@ -5,7 +5,7 @@ Centralized Version Control System (CVCS) - collaboration within a developer tea
 Distributed Version Control systems (DVCS) - allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information.
 
 Git is a DVCS
- Snapshots - Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. 
+Snapshots - Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. 
 
 File States - committed, modified, and staged
 
