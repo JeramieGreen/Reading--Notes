@@ -13,4 +13,4 @@ Output - the processed information is then placed back in storage until the info
 
 The binary system multiplies the number values x2. To say the n 
 
-A not circut will flip what the output gives you. If I input a 1 I will receive a 0 on the output.
+A not circuit will flip what the output gives you. If I input a 1 I will receive a 0 on the output.
